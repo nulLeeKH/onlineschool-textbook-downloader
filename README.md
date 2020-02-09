@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/onlineschool-textbook-downloader.svg)
 
 # onlineschool-textbook-downloader
-Python script for download onlineschool textbooks for Korean students easily.
+Python script for download onlineschool textbooks for Korean students easily
 
 ## Info
 - This script is for Korea National Education Agency's onlineschool Program.
