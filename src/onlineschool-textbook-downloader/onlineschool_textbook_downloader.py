@@ -8,7 +8,8 @@ def download(downloading_file_url, downloaded_file_name = None):
 
 
 if __name__ == '__main__':
-    # Example for following link [http://bf2009down.kedicdn.re.kr/2015hs/for2/spa1/webbook_01.zip]
+    # Following variables are example for this[http://bf2009down.kedicdn.re.kr/2015hs/for2/spa1/webbook_01.zip].
+    # Please modify it to suit your situation.
 
     curriculum = "2015"
     # Enter the year of your curriculum
